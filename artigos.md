@@ -14,6 +14,19 @@
     ],
     "draft": false,
     "content": "sdfsd"
+  },
+  {
+    "slug": "artigo-novo",
+    "title": "Artigo Novo",
+    "subtitle": "Testeando Artigo",
+    "author": "marcoshubtech-code",
+    "date": "2025-11-19",
+    "coverImage": "https://unsplash.com/pt-br/fotografias/o-ano-de-2026-em-numeros-claros-e-ousados-dLYGDZTWn20",
+    "tags": [
+      "Tutorial"
+    ],
+    "draft": false,
+    "content": "## Hoje Teste\n\n#### Hoje vamos falar\n\n**Não vamos perder tempo.*"
   }
 ]
 ```
