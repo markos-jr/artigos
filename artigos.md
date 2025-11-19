@@ -14,6 +14,19 @@
     ],
     "draft": false,
     "content": "sdfsd"
+  },
+  {
+    "slug": "okok",
+    "title": "Okok",
+    "subtitle": "okok",
+    "author": "Marcos Júnior",
+    "date": "2025-11-19",
+    "coverImage": "https://unsplash.com/pt-br/fotografias/o-ano-de-2026-em-numeros-claros-e-ousados-dLYGDZTWn20",
+    "tags": [
+      "tutorial"
+    ],
+    "draft": false,
+    "content": "dfsfsdfsdf"
   }
 ]
 ```
