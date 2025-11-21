@@ -66,6 +66,17 @@
     ],
     "draft": true,
     "content": "## Introdução"
+  },
+  {
+    "slug": "metalurgia-do-aco-",
+    "title": "Metalurgia do Aço ",
+    "subtitle": "A dinâmica de produção de aços UBC ",
+    "author": "Rubia Teodoro ",
+    "date": "2025-11-21",
+    "coverImage": "",
+    "tags": [],
+    "draft": true,
+    "content": "## introdução \n\nFé"
   }
 ]
 ```
