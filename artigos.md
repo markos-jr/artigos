@@ -38,6 +38,19 @@
     "tags": [],
     "draft": false,
     "content": "## Introdução \n# OK\n\n*ola mundo*\n"
+  },
+  {
+    "slug": "iniciando-primeiro-artigo",
+    "title": "Iniciando Primeiro Artigo",
+    "subtitle": "Teste",
+    "author": "Marcos Júnior",
+    "date": "2025-11-21",
+    "coverImage": "",
+    "tags": [
+      "astro"
+    ],
+    "draft": false,
+    "content": "\n##Testando primeiro artigo em PRD\n"
   }
 ]
 ```
