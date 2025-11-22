@@ -42,8 +42,8 @@
     "content": "\n##Testando primeiro artigo em PRD\n"
   },
   {
-    "slug": "artigo-teste",
-    "title": "Artigo Teste",
+    "slug": "artigo-teste-alterado",
+    "title": "Artigo Teste Alterado",
     "subtitle": "Rubia",
     "author": "Marcos Júnior",
     "date": "2025-11-21",
